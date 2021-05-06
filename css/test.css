@@ -102,7 +102,7 @@ header #menu-button:after {
     position: relative;
     width: 100%;
     min-height: 100vh;
-    padding: 100px 100px 200px 100px;
+    padding: 100px;
 
     /* background: url(../data/backgroundImage.jpg);
     background-size:100vw ; */
@@ -129,7 +129,7 @@ header #menu-button:after {
 }
 
 .content h2 span{
-    color: #1BA1DA;
+    color: #40c3ff;
     font-size: 1.2em;
 }
 
@@ -137,8 +137,6 @@ header #menu-button:after {
     font-size: 1.2em;
     font-weight: 300;
     color: #ffffff;
-
-    margin: 2em 0 1em 0;
 }
 
 .content a {
@@ -200,7 +198,7 @@ header #menu-button:after {
     width: 300px;
     height: 100vh;
 
-    background: #1BA1DA;
+    background: #40c3ff;
 
     display: grid;
     place-items: center;
@@ -231,7 +229,7 @@ header #menu-button:after {
 
 #navigation ul li a{
     text-decoration: none;
-    color: #1b1b1b;
+    color: #000000;
     font-size: 2em;
     font-weight: 600;
     text-transform: uppercase;
